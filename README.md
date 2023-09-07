@@ -1,1 +1,1 @@
-![CI](https://github.com/nfadeaway/ahj-env/actions/workflows/jekyll-gh-pages.yml/badge.svg)
+![CI](https://github.com/nfadeaway/ahj-env/actions/workflows/web.yml/badge.svg)
